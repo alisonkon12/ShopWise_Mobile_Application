@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">ShopWise</string>
+    <string name="title_home">Home</string>
+    <string name="title_product">Store Guide</string>
+    <string name="title_promotion">Promotions</string>
+    <string name="title_favourite">Favourite</string>
+
+    <string name="settings">Profile Settings</string>
+
+    <string name="long_Text">Your favourite list will be here</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up a new account again</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Do not have an account? Click here to register!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot Password</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_0_title">Welcome to ShopWise</string>
+    <string name="slide_0_desc">It makes a better shopping experience</string>
+
+    <string name="slide_1_title">Shopping List</string>
+    <string name="slide_1_desc">The easiest way to grab your favourites goods from your favourite list!</string>
+
+    <string name="slide_2_title">Your Direction Helper</string>
+    <string name="slide_2_desc">Search for your destination with just an easy click!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts with just a glance!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> ShopWise-> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="login">You have login in successfully</string>
+
+
+    <string name="category">Choose a category</string>
+
+    <string-array name="category_arrays">
+        <item>Fashion</item>
+        <item>Food</item>
+        <item>Grocery</item>
+        <item>Leisure</item>
+    </string-array>
+
+    <string-array name="promotion_category_array">
+        <item>Choose A Category</item>
+        <item>Fashion</item>
+        <item>Food</item>
+        <item>Grocery</item>
+        <item>Leisure</item>
+    </string-array>
+
+    <string-array name="aplhabet">
+        <item>Choose A Category</item>
+        <item>Fashion</item>
+        <item>Food</item>
+        <item>Grocery</item>
+        <item>Leisure</item>
+    </string-array>
+
+</resources>
+

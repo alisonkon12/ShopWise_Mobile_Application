@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F3B239</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+
+    <color name="colorAccent">#FA050505</color>
+    <color name="ic_launcher_background">#F3B239</color>
+    <color name="appbar">#F3B239</color>
+
+    <color name="shops">#FF9671</color>
+    <color name="food">#F27D88</color>
+    <color name="fashion">#D26F9D</color>
+    <color name="grocery">#A74B2B</color>
+    <color name="entertainment">#5E3632</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#EBCF8D</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_welcome">#F1CD5D</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#E91E63</color>
+    <color name="dot_dark_screen2">#E91E63</color>
+    <color name="dot_dark_screen3">#E91E63</color>
+    <color name="dot_dark_screen4">#E91E63</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#f98da5</color>
+    <color name="dot_light_screen3">#f98da5</color>
+    <color name="dot_light_screen4">#f98da5</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+    <!--MAP-->
+
+    <color name="transparent">#00000000</color>
+    <color name="pressed_color">#E7E7E7</color>
+    <color name="divider_color">#E2DDDD</color>
+    <color name="gray_active_icon">#787878</color>
+
+    <!--Promotion-->
+    <color name="colorBlack">#000000</color>
+    <color name="divider">#727272</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorPink">#D2B6FF</color>
+</resources>
